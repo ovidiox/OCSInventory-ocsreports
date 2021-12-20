@@ -125,7 +125,7 @@
 126 Siguiente
 127 Primero
 128 Último
-129 Igual
+129 Contiene
 130 Diferente
 131 Archivo de iconos
 132 Archivo de imagen
